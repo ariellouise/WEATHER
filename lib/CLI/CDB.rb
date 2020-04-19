@@ -6,3 +6,12 @@ module CLI
     # Your code goes here...
   end
 end
+
+class DrinkList
+  
+ 
+  
+  def.self get_drink_list
+  
+  
+end
