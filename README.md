@@ -1,4 +1,4 @@
-This is a test!
+Welcome to my project. The purpose of this application is to be able to quickly pull up a list of drinks by ingredient entered and from the Cocktail DB API. This API was listed as a free API, however for a more indepth application, other API's from this website may be used or purchased. This is just a standard and quick application to show you one of the many ways you can perform a CLI in Ruby for the Ruby final project assigned by Flatiron.
 
 # CLI::CDB
 
