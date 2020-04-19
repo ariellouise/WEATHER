@@ -9,7 +9,7 @@ end
 
 class DrinkList
   
- 
+  BASE_URL "https://www.thecocktaildb.com/api/json/v1/1/list.php?i=list"
   
   def.self get_drink_list
   
